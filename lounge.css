@@ -2,7 +2,6 @@ body {
 font-family: sans-serif;  
 font-weight: bolder;
 font-size: 20px;
-background-color: rgb(217, 255, 0);
 }
 h1, h2 {
 color: gray;
@@ -34,3 +33,12 @@ color: red;
 a {
 text-decoration: none;
 }
+p {
+  border-width: 1px;;
+  border-color: black;
+  border-style: solid;
+  padding: 1px;
+  margin: 50px;
+  background: aqua;
+}
+
